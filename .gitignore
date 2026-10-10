@@ -151,6 +151,8 @@ config*.ini
 ./config.ini
 ./chaoxing.log
 ./cookies.txt
+run_log.txt
+run_log*.txt
 .idea/
 .vscode/
 cache.json
